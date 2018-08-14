@@ -1,0 +1,6 @@
+{"name":"Man Utd","next":true}
+{"name":"Chelsea","next":true}
+{"name":"Fulham","next":true}
+{"name":"Tottenham","next":true}
+{"name":"Liverpool","next":true}
+{"name":"Arsenal","next":true}
